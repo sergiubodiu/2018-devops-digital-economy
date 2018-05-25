@@ -1,0 +1,11 @@
+baseurl         = "/"
+theme           = "remark-minion"
+languageCode    = "en-us"
+title           = "DevOps Practices"
+canonifyurls    = true
+
+[params]
+  googleAnalytics = ""
+  name            = "@sergiu_bodiu"
+  description     = "DevOps Best Practices NUS ISS"
+  custom_css      = ["custom.css"]
